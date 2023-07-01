@@ -1,0 +1,103 @@
+{
+    "Testimonials": [
+        {
+            "id":1,
+            "image":"https://i.postimg.cc/pTDFyCt1/C12-C2-Siyamanga-Zweni-2.jpg" ,
+            "name": "Siyamanga Zweni",
+            "description": "Rabia is an exceptional learner with a keen eye for detail, She is also an excellent team player who always goes above and beyond to support her fellow students. Her smile always brightens up the room . She is warm and loving. Her determination and willingness to collaborate makes her a valuable asset to any project team. I have no doubt that she will continue to excel in her career and make meaningful contributions to the field of technology."
+        },
+        {
+            "id":2,
+            "image": "https://i.postimg.cc/L43Kt2J5/C12-Justin-Scholtz-2-min.jpg"  ,
+            "name":"Justin Scholtz" ,
+            "description":"Rabia is a very cheerful person, always looking help those around her and a very quick learner. These are qualities that makes her the perfect candidate for any team, I've noticed that once her mind is set on learning something or just understanding a concept then her determination just kicks into another level and she doesn't stop until it clicks. Definitely the type of person I want around my team "
+        },
+        {
+            "id":3,
+            "image":"https://i.postimg.cc/HLyWsN9b/uthmaan.jpg" ,
+            "name": "Uthmaan Samsodien" ,
+            "description": "For the past 2 months I've learnt a lot about Rabia, she is determined, focused and wants to get things done. She is always asking questions making sure she understands the work. When working in a group she is an excellent co-worker and when she is working alone she is focused and does not procrastinate. She is strong is HTML and CSS always eager to learn and to upskill herself. She is very organized and this is a good quality to have in an working environment. Rabia is kind and is good with working with people."
+        },
+        {
+            "id":4,
+            "image":"https://i.postimg.cc/jdnrNrHw/20230509-171206.jpg" ,
+            "name":"Summer De Wet" ,
+            "description":"Rabia is a very hard working and dedicated person, when she sets her mind to something, she gets it done. Beyond her technical skills, Rabia is a very kind person who offers her assistance to anyone who needs it. Her ability to work collaboratively makes her an invaluable member of any team. I would definitely recommend her because not only will she be an asset to the team, but her work ethics and passion for technology would serve her well in any role."
+        },
+        {
+            "id":5,
+            "image": "https://i.postimg.cc/s2p1LVs8/t0.jpg" ,
+            "name": "Imraan Berknsen",
+            "description": "I am delighted to recommend Rabia as an aspiring web developer. Her hardworking and dedicated nature is evident in the exceptional websites she creates. Rabia's creative and stylish approach to web development ensures that her work always looks modern and visually appealing. I have no doubt that Rabia will continue to excel in her field, and I highly recommend her to anyone in need of a talented web developer."
+        }
+  ],
+
+
+    "Education": [
+        {
+            "id":1,
+            "year":"2022",
+            "title":"High School",
+            "school":"Darul Islam Islamic High School",
+            "description":"For the first three years of high school was a average student but grade 11 and I pushed enough to get decent marks.As for matric I become the top student and manage to get first place in most of my subject and was valedictorian and got first place in my whole grade.I am impressed I passed with a bachelors pass aswell."
+        },
+        {
+            "id":1,
+            "year":"2023",
+            "title":"Boot Camp",
+            "school":"Life Choices",
+            "description":"I recently started at Life Choices and It's really been a enjoyable experience and I'm ready to make coding a life time career."
+        }
+     ],
+     "Projects": [
+           {
+            "id":1,
+            "image":"https://i.postimg.cc/3WMLC79B/project1.png",
+            "title":"Project 1 ",
+            "text":"A simple calendar.",
+            "github":"https://github.com/rabiahaucha/bootstrap_calender.git ",
+          "netlify": "https://bootstrap-calendar-1.netlify.app"
+           },
+           {
+            "id":2,
+            "image":"https://i.postimg.cc/3WMLC79B/project1.png",
+            "title":"Project 2",
+            "text":"A simple calendar.",
+            "github":"https://github.com/rabiahaucha/bootstrap_calender.git" ,
+          "netlify":"https://bootstrap-calendar-1.netlify.app"
+           },
+           {
+            "id":3,
+            "image":"",
+            "title":"Project 3",
+            "text":"My first Portfolio",
+            "github":"" ,
+          "netlify":""
+           }
+     ],
+
+    "Skills": [
+            {
+            "id": 1,
+            "title":"HTML" ,
+            "percentage":"88%" 
+        },
+        {
+            "id": 2,
+            "title":"CSS" ,
+            "percentage":"88%"
+        },
+        {
+            "id": 3,
+            "title":"JAVASCRIPT" ,
+            "percentage":"79%"
+        },
+        {
+            "id": 3,
+            "title":"BOOTSTRAP" ,
+            "percentage":"92%"
+        }
+        
+    ]
+ 
+}
