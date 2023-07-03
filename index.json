@@ -84,8 +84,8 @@
         },
         {
             "id": 2,
-            "title":"CSS" ,
-            "description":"CSS is an incredibly easy language to learn, with its simple syntax and straightforward rules. It is a great language for beginners to web development, as it can be picked up quickly and put into practice with tangible results."
+          "image":"https://i.postimg.cc/0y2DgY10/css.png",
+        "description":"CSS is an incredibly easy language to learn, with its simple syntax and straightforward rules. It is a great language for beginners to web development, as it can be picked up quickly and put into practice with tangible results."
         },
         {
             "id": 3,
