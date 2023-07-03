@@ -80,24 +80,27 @@
             {
             "id": 1,
             "title":"HTML" ,
-            "percentage":"88%" 
+            "image":"https://i.postimg.cc/dVMRCP8L/html.png",
+         "description":"HTML is a very straightforward language to learn and is incredibly easy to use, even for beginners. With only a basic understanding of HTML, you can create webpages with ease." 
         },
         {
             "id": 2,
+            "image":"https://i.postimg.cc/0y2DgY10/css.png",
             "title":"CSS" ,
-            "percentage":"88%"
+            "description":"CSS is an incredibly easy language to learn, with its simple syntax and straightforward rules. It is a great language for beginners to web development, as it can be picked up quickly and put into practice with tangible results."
         },
         {
             "id": 3,
             "title":"JAVASCRIPT" ,
-            "percentage":"79%"
+            "image":"https://i.postimg.cc/QC3Kf5q5/javascript.png",
+            "description":"JavaScript is a surprisingly easy language to learn, with its intuitive syntax and straightforward concepts. It can be picked up quickly by beginners, making it an ideal choice for those looking to get into coding.</" 
         },
         {
-            "id": 3,
+            "id": 4,
             "title":"BOOTSTRAP" ,
-            "percentage":"92%"
-        }
-        
+            "image":"https://i.postimg.cc/wvh7RMdB/bootstrap.png",
+         "description": "Bootstrap is an incredibly easy-to-use language, making it a great choice for developers of all skill levels. With its intuitive syntax, creating responsive websites and apps with Bootstrap has never been simpler."
+        }   
     ]
  
 }
