@@ -54,49 +54,89 @@
             "id":1,
             "image":"https://i.postimg.cc/3WMLC79B/project1.png",
             "title":"Project 1 ",
-            "text":"A simple calendar.",
+            "text":"A Simple Calendar.",
             "github":"https://github.com/rabiahaucha/bootstrap_calender.git ",
           "netlify": "https://bootstrap-calendar-1.netlify.app"
            },
            {
             "id":2,
-            "image":"https://i.postimg.cc/3WMLC79B/project1.png",
+            "image":"https://i.postimg.cc/L8DW0DhL/Screenshot-2023-07-05-094234.png",
             "title":"Project 2",
-            "text":"A simple calendar.",
-            "github":"https://github.com/rabiahaucha/bootstrap_calender.git" ,
-          "netlify":"https://bootstrap-calendar-1.netlify.app"
+            "text":"A Javascript Calculator.",
+            "github":"https://github.com/rabiahaucha/Calculator.JS" ,
+            "netlify":"https://calculatorjs-21.netlify.app"
+        },
+       { "id":3,
+        "image":"https://i.postimg.cc/k57jQbcG/Screenshot-2023-07-05-094257.png",
+        "title":"Project 3",
+        "text":"My first Portfolio",
+        "github":"https://github.com/rabiahaucha/portfolio1" ,
+      "netlify":"https://rabiaportfolio2.netlify.app"
+       },
+           {
+            "id":4,
+            "image":"https://i.postimg.cc/vTwxnWrS/Screenshot-2023-07-05-094148.png",
+            "title":"Project 4",
+            "text":"My E-Commerce Website.",
+            "github":"https://github.com/rabiahaucha/EOMD" ,
+          "netlify":"https://purpleplantation.netlify.app"
            },
            {
-            "id":3,
-            "image":"",
-            "title":"Project 3",
-            "text":"My first Portfolio",
-            "github":"" ,
-          "netlify":""
+           "id":5,
+           "image":"https://i.postimg.cc/wBzMx6kD/Screenshot-2023-07-05-094210.png",
+           "title":"Project 5",
+           "text":"My BMI Calculator",
+           "github":"https://github.com/rabiahaucha/bmicalculator" ,
+         "netlify":"https://rabiabmicalculator.netlify.app"
+          },
+          {
+            "id":5,
+            "image":"https://i.postimg.cc/c4JQZcJd/Screenshot-2023-07-05-094127.png",
+            "title":"Project 5",
+            "text":"A Website For My Favourite Anime",
+            "github":"https://github.com/rabiahaucha/animation" ,
+          "netlify":"https://onepiece-website.netlify.app"
            }
+          
      ],
 
     "Skills": [
             {
             "id": 1,
+            "level":"Advanced",
             "image":"https://i.postimg.cc/dVMRCP8L/html.png",
          "description":"HTML is a very straightforward language to learn and is incredibly easy to use, even for beginners. With only a basic understanding of HTML, you can create webpages with ease." 
         },
         {
             "id": 2,
+            "level":"Advanced",
           "image":"https://i.postimg.cc/0y2DgY10/css.png",
         "description":"CSS is an incredibly easy language to learn, with its simple syntax and straightforward rules. It is a great language for beginners to web development, as it can be picked up quickly and put into practice with tangible results."
         },
         {
             "id": 3,
+            "level":"Intermediate",
             "image":"https://i.postimg.cc/QC3Kf5q5/javascript.png",
             "description":"JavaScript is a surprisingly easy language to learn, with its intuitive syntax and straightforward concepts. It can be picked up quickly by beginners, making it an ideal choice for those looking to get into coding." 
         },
         {
             "id": 4,
+            "level":"Advanced",
             "image":"https://i.postimg.cc/x8WR8drg/bootstrap2.png",
          "description": "Bootstrap is an incredibly easy-to-use language, making it a great choice for developers of all skill levels. With its intuitive syntax, creating responsive websites and apps with Bootstrap has never been simpler."
-        }   
+        },
+        {
+            "id": 5,
+            "level":"Beginner",
+            "image":"https://i.postimg.cc/9XJZ31Dp/pngegg-1.png",
+         "description": "I was amazed at how quickly I learned to use Vue.js. With its intuitive syntax and well-structured documentation. It's incredible how quickly I became proficient with Vue.js, and I can't wait to explore its endless possibilities further."
+        },
+        {
+            "id": 6,
+            "level":"Intermediate",
+            "image":"https://i.postimg.cc/C1fLxGYz/pngegg-5.png",
+         "description": "I am very dedicated to using GitHub. I find it to be an invaluable tool for tracking my code changes, pushing my work to remote repositories, and collaborating with other developers. I'm proud of how far I've come in my understanding of GitHub."
+        }    
     ]
  
 }
