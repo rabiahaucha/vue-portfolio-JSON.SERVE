@@ -25,16 +25,16 @@
             "description":"Rabia is a very hard working and dedicated person, when she sets her mind to something, she gets it done. Beyond her technical skills, Rabia is a very kind person who offers her assistance to anyone who needs it. Her ability to work collaboratively makes her an invaluable member of any team. I would definitely recommend her because not only will she be an asset to the team, but her work ethics and passion for technology would serve her well in any role."
         },
         {
-            "id":5,
-            "image": "https://i.postimg.cc/s2p1LVs8/t0.jpg" ,
-            "name": "Imraan Berknsen",
-            "description": "I am delighted to recommend Rabia as an aspiring full-stack developer. Her hardworking and dedicated nature is evident in the exceptional websites she creates. Rabia's creative and stylish approach to web development ensures that her work always looks modern and visually appealing. I have no doubt that Rabia will continue to excel in her field, and I highly recommend her to anyone in need of a talented web developer."
-        },
-        {
             "id":6,
             "image": "https://i.postimg.cc/FstrptDd/zia.jpg"  ,
             "name":"Zia Khan" ,
             "description":"Rabia takes so much pride in all her work, and it truly shows. Her dedication in her work her work is inspiring and is valuable to her success. She handles stress very well especially while challenging projects or any other work. She has a supportive nature and collaborates well with all her peers. Rabia has a lot of potential and i see that she has promising future ahead of her. "
+        },
+        {
+            "id":5,
+            "image": "https://i.postimg.cc/s2p1LVs8/t0.jpg" ,
+            "name": "Imraan Berknsen",
+            "description": "I am delighted to recommend Rabia as an aspiring full-stack developer. Her hardworking and dedicated nature is evident in the exceptional websites she creates. Rabia's creative and stylish approach to web development ensures that her work always looks modern and visually appealing. I have no doubt that Rabia will continue to excel in her field, and I highly recommend her to anyone in need of a talented web developer."
         }
   ],
       "Education": [
@@ -96,19 +96,11 @@
           {
             "id":6,
             "image":"https://i.postimg.cc/c4JQZcJd/Screenshot-2023-07-05-094127.png",
-            "title":"Project 5",
+            "title":"Project 6",
             "text":"A Website For My Favourite Anime",
             "github":"https://github.com/rabiahaucha/animation" ,
           "netlify":"https://onepiece-website.netlify.app"
-           },
-           {"id":7,
-           "image":"",
-           "title":"Project 5",
-           "text":"A Group E-Commerce Website",
-           "github":"" ,
-         "netlify":""
-          }
-          
+           }    
      ],
 
     "Skills": [
