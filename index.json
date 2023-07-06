@@ -29,11 +29,15 @@
             "image": "https://i.postimg.cc/s2p1LVs8/t0.jpg" ,
             "name": "Imraan Berknsen",
             "description": "I am delighted to recommend Rabia as an aspiring full-stack developer. Her hardworking and dedicated nature is evident in the exceptional websites she creates. Rabia's creative and stylish approach to web development ensures that her work always looks modern and visually appealing. I have no doubt that Rabia will continue to excel in her field, and I highly recommend her to anyone in need of a talented web developer."
+        },
+        {
+            "id":6,
+            "image": "https://i.postimg.cc/FstrptDd/zia.jpg"  ,
+            "name":"Zia Khan" ,
+            "description":"Rabia takes so much pride in all her work, and it truly shows. Her dedication in her work her work is inspiring and is valuable to her success. She handles stress very well especially while challenging projects or any other work. She has a supportive nature and collaborates well with all her peers. Rabia has a lot of potential and i see that she has promising future ahead of her. "
         }
   ],
-
-
-    "Education": [
+      "Education": [
         {
             "id":1,
             "year":"2022",
@@ -44,7 +48,7 @@
         {
             "id":1,
             "year":"2023",
-            "title":"Boot Camp",
+            "title":"Academy",
             "school":"Life Choices",
             "description":"I recently started at Life Choices and It's really been a enjoyable experience and I'm ready to make coding a life time career."
         }
@@ -90,13 +94,20 @@
          "netlify":"https://rabiabmicalculator.netlify.app"
           },
           {
-            "id":5,
+            "id":6,
             "image":"https://i.postimg.cc/c4JQZcJd/Screenshot-2023-07-05-094127.png",
             "title":"Project 5",
             "text":"A Website For My Favourite Anime",
             "github":"https://github.com/rabiahaucha/animation" ,
           "netlify":"https://onepiece-website.netlify.app"
-           }
+           },
+           {"id":7,
+           "image":"",
+           "title":"Project 5",
+           "text":"A Group E-Commerce Website",
+           "github":"" ,
+         "netlify":""
+          }
           
      ],
 
