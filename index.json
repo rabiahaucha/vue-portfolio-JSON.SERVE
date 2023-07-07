@@ -4,37 +4,44 @@
             "id":1,
             "image":"https://i.postimg.cc/pTDFyCt1/C12-C2-Siyamanga-Zweni-2.jpg" ,
             "name": "Siyamanga Zweni",
-            "description": "Rabia is an exceptional learner with a keen eye for detail, She is also an excellent team player who always goes above and beyond to support her fellow students. Her smile always brightens up the room . She is warm and loving. Her determination and willingness to collaborate makes her a valuable asset to any project team. I have no doubt that she will continue to excel in her career and make meaningful contributions to the field of technology."
+            "description": "Rabia is an exceptional learner with a keen eye for detail, She is also an excellent team player who always goes above and beyond to support her fellow students. Her smile always brightens up the room . She is warm and loving. Her determination and willingness to collaborate makes her a valuable asset to any project team. I have no doubt that she will continue to excel in her career and make meaningful contributions to the field of technology.",
+            "title":"Web Designer"
         },
         {
             "id":2,
             "image": "https://i.postimg.cc/L43Kt2J5/C12-Justin-Scholtz-2-min.jpg"  ,
             "name":"Justin Scholtz" ,
-            "description":"Rabia is a very cheerful person, always looking help those around her and a very quick learner. These are qualities that makes her the perfect candidate for any team, I've noticed that once her mind is set on learning something or just understanding a concept then her determination just kicks into another level and she doesn't stop until it clicks. Definitely the type of person I want around my team "
+            "description":"Rabia is a very cheerful person, always looking help those around her and a very quick learner. These are qualities that makes her the perfect candidate for any team, I've noticed that once her mind is set on learning something or just understanding a concept then her determination just kicks into another level and she doesn't stop until it clicks. Definitely the type of person I want around my team ",
+            "title":"Web Designer"
         },
         {
             "id":3,
             "image":"https://i.postimg.cc/HLyWsN9b/uthmaan.jpg" ,
             "name": "Uthmaan Samsodien" ,
-            "description": "For the past 2 months I've learnt a lot about Rabia, she is determined, focused and wants to get things done. She is always asking questions making sure she understands the work. When working in a group she is an excellent co-worker and when she is working alone she is focused and does not procrastinate. She is strong is HTML and CSS always eager to learn and to upskill herself. She is very organized and this is a good quality to have in an working environment. Rabia is kind and is good with working with people."
+            "description": "For the past 2 months I've learnt a lot about Rabia, she is determined, focused and wants to get things done. She is always asking questions making sure she understands the work. When working in a group she is an excellent co-worker and when she is working alone she is focused and does not procrastinate. She is strong is HTML and CSS always eager to learn and to upskill herself. She is very organized and this is a good quality to have in an working environment. Rabia is kind and is good with working with people.",
+            "title":"Web Designer"
         },
         {
             "id":4,
             "image":"https://i.postimg.cc/7Pg6b5dg/C12-C2-Summer-de-Wet-1.jpg" ,
             "name":"Summer De Wet" ,
-            "description":"Rabia is a very hard working and dedicated person, when she sets her mind to something, she gets it done. Beyond her technical skills, Rabia is a very kind person who offers her assistance to anyone who needs it. Her ability to work collaboratively makes her an invaluable member of any team. I would definitely recommend her because not only will she be an asset to the team, but her work ethics and passion for technology would serve her well in any role."
+            "description":"Rabia is a very hard working and dedicated person, when she sets her mind to something, she gets it done. Beyond her technical skills, Rabia is a very kind person who offers her assistance to anyone who needs it. Her ability to work collaboratively makes her an invaluable member of any team. I would definitely recommend her because not only will she be an asset to the team, but her work ethics and passion for technology would serve her well in any role.",
+            "title":"Web Designer"
         },
         {
             "id":6,
             "image": "https://i.postimg.cc/FstrptDd/zia.jpg"  ,
             "name":"Zia Khan" ,
-            "description":"Rabia takes so much pride in all her work, and it truly shows. Her dedication in her work her work is inspiring and is valuable to her success. She handles stress very well especially while challenging projects or any other work. She has a supportive nature and collaborates well with all her peers. Rabia has a lot of potential and i see that she has promising future ahead of her. "
+            "description":"Rabia takes so much pride in all her work, and it truly shows. Her dedication in her work her work is inspiring and is valuable to her success. She handles stress very well especially while challenging projects or any other work. She has a supportive nature and collaborates well with all her peers. Rabia has a lot of potential and i see that she has promising future ahead of her. ",
+            "title":"Web Designer"
+            
         },
         {
             "id":5,
             "image": "https://i.postimg.cc/s2p1LVs8/t0.jpg" ,
             "name": "Imraan Berknsen",
-            "description": "I am delighted to recommend Rabia as an aspiring full-stack developer. Her hardworking and dedicated nature is evident in the exceptional websites she creates. Rabia's creative and stylish approach to web development ensures that her work always looks modern and visually appealing. I have no doubt that Rabia will continue to excel in her field, and I highly recommend her to anyone in need of a talented web developer."
+            "description": "I am delighted to recommend Rabia as an aspiring full-stack developer. Her hardworking and dedicated nature is evident in the exceptional websites she creates. Rabia's creative and stylish approach to web development ensures that her work always looks modern and visually appealing. I have no doubt that Rabia will continue to excel in her field, and I highly recommend her to anyone in need of a talented web developer.",
+            "teacher":"Lecturer"
         }
   ],
       "Education": [
